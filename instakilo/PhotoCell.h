@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  PhotoCell.h
 //  instakilo
 //
 //  Created by William Lam on 2016-03-23.
@@ -7,8 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "Photo.h"
 
-@interface ViewController : UIViewController
+@interface PhotoCell : UICollectionViewCell
+
+@property (weak, nonatomic) IBOutlet UIImageView *photoView;
+
 
 @end

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5BCF7B7FC1C35981DAEA17C0E678DA098B330BC5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5BCF7B7FC1C35981DAEA17C0E678DA098B330BC5" : 0,
+    "4C7067780E08BB88EFE907482D8C25BC72998D37" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A8574DAA-1F29-414E-BA9B-ABB5D7522DA7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5BCF7B7FC1C35981DAEA17C0E678DA098B330BC5" : "instakilo\/",
+    "4C7067780E08BB88EFE907482D8C25BC72998D37" : "..\/..\/lighthouse\/instakilo"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "instakilo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "instakilo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/willlam\/instakilo-lighthouse-labs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4C7067780E08BB88EFE907482D8C25BC72998D37"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/willlam\/instakilo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5BCF7B7FC1C35981DAEA17C0E678DA098B330BC5"
+    }
+  ]
+}

@@ -1,14 +1,13 @@
 //
-//  ViewController.h
+//  PhotoCell.m
 //  instakilo
 //
 //  Created by William Lam on 2016-03-23.
 //  Copyright © 2016 William Lam. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
-#import "Photo.h"
+#import "PhotoCell.h"
 
-@interface ViewController : UIViewController
+@implementation PhotoCell
 
 @end

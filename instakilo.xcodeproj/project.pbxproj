@@ -9,10 +9,22 @@
 /* Begin PBXBuildFile section */
 		39017A4F1CA2E91B00224256 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 39017A4E1CA2E91B00224256 /* main.m */; };
 		39017A521CA2E91B00224256 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 39017A511CA2E91B00224256 /* AppDelegate.m */; };
-		39017A551CA2E91B00224256 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 39017A541CA2E91B00224256 /* ViewController.m */; };
 		39017A581CA2E91B00224256 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39017A561CA2E91B00224256 /* Main.storyboard */; };
 		39017A5A1CA2E91B00224256 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 39017A591CA2E91B00224256 /* Assets.xcassets */; };
 		39017A5D1CA2E91B00224256 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39017A5B1CA2E91B00224256 /* LaunchScreen.storyboard */; };
+		39017A691CA2EC1F00224256 /* Photo.m in Sources */ = {isa = PBXBuildFile; fileRef = 39017A681CA2EC1F00224256 /* Photo.m */; };
+		39017A6C1CA2EEC500224256 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 39017A6B1CA2EEC500224256 /* ViewController.m */; };
+		39017A6F1CA2F13100224256 /* PhotoCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 39017A6E1CA2F13100224256 /* PhotoCell.m */; };
+		39017A7A1CA312F100224256 /* burningman.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 39017A701CA312F100224256 /* burningman.jpg */; };
+		39017A7B1CA312F100224256 /* camp reset.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 39017A711CA312F100224256 /* camp reset.jpg */; };
+		39017A7C1CA312F100224256 /* Gabriel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 39017A721CA312F100224256 /* Gabriel.jpg */; };
+		39017A7D1CA312F100224256 /* Duo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 39017A731CA312F100224256 /* Duo.jpg */; };
+		39017A7E1CA312F100224256 /* Milo1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 39017A741CA312F100224256 /* Milo1.jpg */; };
+		39017A7F1CA312F100224256 /* autumn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 39017A751CA312F100224256 /* autumn.jpg */; };
+		39017A801CA312F100224256 /* me chillin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 39017A761CA312F100224256 /* me chillin.jpg */; };
+		39017A811CA312F100224256 /* me chillin2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 39017A771CA312F100224256 /* me chillin2.jpg */; };
+		39017A821CA312F100224256 /* will lam.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 39017A781CA312F100224256 /* will lam.jpg */; };
+		39017A831CA312F100224256 /* y.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 39017A791CA312F100224256 /* y.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,12 +32,26 @@
 		39017A4E1CA2E91B00224256 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		39017A501CA2E91B00224256 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		39017A511CA2E91B00224256 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		39017A531CA2E91B00224256 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		39017A541CA2E91B00224256 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		39017A571CA2E91B00224256 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		39017A591CA2E91B00224256 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		39017A5C1CA2E91B00224256 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		39017A5E1CA2E91B00224256 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		39017A671CA2EC1E00224256 /* Photo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Photo.h; sourceTree = "<group>"; };
+		39017A681CA2EC1F00224256 /* Photo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Photo.m; sourceTree = "<group>"; };
+		39017A6A1CA2EEC500224256 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		39017A6B1CA2EEC500224256 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		39017A6D1CA2F13100224256 /* PhotoCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PhotoCell.h; sourceTree = "<group>"; };
+		39017A6E1CA2F13100224256 /* PhotoCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PhotoCell.m; sourceTree = "<group>"; };
+		39017A701CA312F100224256 /* burningman.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = burningman.jpg; path = ../../../../lighthouse/instakilo/instakilo/burningman.jpg; sourceTree = "<group>"; };
+		39017A711CA312F100224256 /* camp reset.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "camp reset.jpg"; path = "../../../../lighthouse/instakilo/instakilo/camp reset.jpg"; sourceTree = "<group>"; };
+		39017A721CA312F100224256 /* Gabriel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Gabriel.jpg; path = ../../../../lighthouse/instakilo/instakilo/Gabriel.jpg; sourceTree = "<group>"; };
+		39017A731CA312F100224256 /* Duo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Duo.jpg; path = ../../../../lighthouse/instakilo/instakilo/Duo.jpg; sourceTree = "<group>"; };
+		39017A741CA312F100224256 /* Milo1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Milo1.jpg; path = ../../../../lighthouse/instakilo/instakilo/Milo1.jpg; sourceTree = "<group>"; };
+		39017A751CA312F100224256 /* autumn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = autumn.jpg; path = ../../../../lighthouse/instakilo/instakilo/autumn.jpg; sourceTree = "<group>"; };
+		39017A761CA312F100224256 /* me chillin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "me chillin.jpg"; path = "../../../../lighthouse/instakilo/instakilo/me chillin.jpg"; sourceTree = "<group>"; };
+		39017A771CA312F100224256 /* me chillin2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "me chillin2.jpg"; path = "../../../../lighthouse/instakilo/instakilo/me chillin2.jpg"; sourceTree = "<group>"; };
+		39017A781CA312F100224256 /* will lam.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "will lam.jpg"; path = "../../../../lighthouse/instakilo/instakilo/will lam.jpg"; sourceTree = "<group>"; };
+		39017A791CA312F100224256 /* y.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = y.jpeg; path = ../../../../lighthouse/instakilo/instakilo/y.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,8 +86,12 @@
 			children = (
 				39017A501CA2E91B00224256 /* AppDelegate.h */,
 				39017A511CA2E91B00224256 /* AppDelegate.m */,
-				39017A531CA2E91B00224256 /* ViewController.h */,
-				39017A541CA2E91B00224256 /* ViewController.m */,
+				39017A6A1CA2EEC500224256 /* ViewController.h */,
+				39017A6B1CA2EEC500224256 /* ViewController.m */,
+				39017A671CA2EC1E00224256 /* Photo.h */,
+				39017A681CA2EC1F00224256 /* Photo.m */,
+				39017A6D1CA2F13100224256 /* PhotoCell.h */,
+				39017A6E1CA2F13100224256 /* PhotoCell.m */,
 				39017A561CA2E91B00224256 /* Main.storyboard */,
 				39017A591CA2E91B00224256 /* Assets.xcassets */,
 				39017A5B1CA2E91B00224256 /* LaunchScreen.storyboard */,
@@ -74,6 +104,16 @@
 		39017A4D1CA2E91B00224256 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				39017A701CA312F100224256 /* burningman.jpg */,
+				39017A711CA312F100224256 /* camp reset.jpg */,
+				39017A721CA312F100224256 /* Gabriel.jpg */,
+				39017A731CA312F100224256 /* Duo.jpg */,
+				39017A741CA312F100224256 /* Milo1.jpg */,
+				39017A751CA312F100224256 /* autumn.jpg */,
+				39017A761CA312F100224256 /* me chillin.jpg */,
+				39017A771CA312F100224256 /* me chillin2.jpg */,
+				39017A781CA312F100224256 /* will lam.jpg */,
+				39017A791CA312F100224256 /* y.jpeg */,
 				39017A4E1CA2E91B00224256 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -137,9 +177,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				39017A831CA312F100224256 /* y.jpeg in Resources */,
 				39017A5D1CA2E91B00224256 /* LaunchScreen.storyboard in Resources */,
+				39017A821CA312F100224256 /* will lam.jpg in Resources */,
 				39017A5A1CA2E91B00224256 /* Assets.xcassets in Resources */,
+				39017A7E1CA312F100224256 /* Milo1.jpg in Resources */,
+				39017A7F1CA312F100224256 /* autumn.jpg in Resources */,
+				39017A7B1CA312F100224256 /* camp reset.jpg in Resources */,
+				39017A7A1CA312F100224256 /* burningman.jpg in Resources */,
+				39017A7C1CA312F100224256 /* Gabriel.jpg in Resources */,
 				39017A581CA2E91B00224256 /* Main.storyboard in Resources */,
+				39017A801CA312F100224256 /* me chillin.jpg in Resources */,
+				39017A811CA312F100224256 /* me chillin2.jpg in Resources */,
+				39017A7D1CA312F100224256 /* Duo.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -150,8 +200,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				39017A551CA2E91B00224256 /* ViewController.m in Sources */,
+				39017A691CA2EC1F00224256 /* Photo.m in Sources */,
+				39017A6F1CA2F13100224256 /* PhotoCell.m in Sources */,
 				39017A521CA2E91B00224256 /* AppDelegate.m in Sources */,
+				39017A6C1CA2EEC500224256 /* ViewController.m in Sources */,
 				39017A4F1CA2E91B00224256 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -266,6 +318,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = willlam.instakilo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -277,6 +330,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = willlam.instakilo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
